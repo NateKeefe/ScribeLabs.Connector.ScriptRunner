@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25402.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribeLabs.Connector.ScriptRunner", "ScribeLabs.Connector.ScriptRunner\ScribeLabs.Connector.ScriptRunner.csproj", "{DAF1F641-FDCD-491D-9DDA-6B5FBF90ED90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScribeLabs.Connector.ScriptRunner.Test", "ScribeLabs.Connector.ScriptRunner.Test\ScribeLabs.Connector.ScriptRunner.Test.csproj", "{D074AF3B-BB5C-4382-9E38-314A7BD6EE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF1F641-FDCD-491D-9DDA-6B5FBF90ED90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF1F641-FDCD-491D-9DDA-6B5FBF90ED90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF1F641-FDCD-491D-9DDA-6B5FBF90ED90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF1F641-FDCD-491D-9DDA-6B5FBF90ED90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D074AF3B-BB5C-4382-9E38-314A7BD6EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D074AF3B-BB5C-4382-9E38-314A7BD6EE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D074AF3B-BB5C-4382-9E38-314A7BD6EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D074AF3B-BB5C-4382-9E38-314A7BD6EE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
